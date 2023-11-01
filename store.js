@@ -40,15 +40,15 @@ global.img7 = 'https://telegra.ph/file/951275803faa754aff010.jpg'
 global.sityImg = [img, img1, img2, img3, img4, img5, img6, img7]
 
 //Enlaces
-global.yt = 'https://www.youtube.com/@Azami_Mods'
-global.ig = 'https://instagram.com/azami_ofc'
-global.md = 'https://github.com/AzamiJs/CuriosityBot-MD'
+global.yt = 'https://www.youtube.com/@EmersonVentas'
+global.ig = 'https://instagram.com/jxtxn17'
+global.md = 'https://github.com/Emergit2006/Turbo-MD1'
 global.paypal = 'https://paypal.me/Azami19'
-global.git = 'https://github.com/GataNina-Li'
-global.nn = 'https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU' //Grupo ofc
-global.nnn = 'https://chat.whatsapp.com/J1R402WH1N0Hdl3S0NDEYu' //Curiosity global
-global.nnnn = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //colaboración multi bots
-global.nnnnn = 'https://chat.whatsapp.com/KlRcEfl8snBEEOA0JXzw5A' //enlace curiosity 
+global.git = 'https://github.com/sopiBot'
+global.nn = 'https://chat.whatsapp.com/FGlXuc4B13G96PYdogNQDH' //Grupo ofc
+global.nnn = 'https://chat.whatsapp.com/FGlXuc4B13G96PYdogNQDH' //Curiosity global
+global.nnnn = 'https://chat.whatsapp.com/FGlXuc4B13G96PYdogNQDH' //colaboración multi bots
+global.nnnnn = 'https://chat.whatsapp.com/FGlXuc4B13G96PYdogNQDH' //enlace curiosity 
 global.linkSity = [yt, ig, md, paypal, git, nn]
 
 //Raíz
